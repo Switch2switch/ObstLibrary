@@ -1,0 +1,9 @@
+ObstLibrary is owned by Sgdgstudios.
+You may do the following:
+
+1. Use ObstLibrary in a Application or game, etc. But You MUST credit Obstlibrary.org.
+2. If you make changes to the source code of the Library you must upload the change in a .zip file at obstlibrary.org/library-change
+3. By using ObstLibrary you agree to all other Agreements for other software you use ObstLibrary in.
+--------------------------------------------------------------------------------------------------------------------------------------
+For more information please visit ObstLibrary.org/license
+(C)2018 ObstLibrary.org
