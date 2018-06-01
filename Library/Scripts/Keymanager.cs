@@ -1,12 +1,38 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DebugLogKeys : MonoBehaviour {
+public class Keymanager : MonoBehaviour {
 	//(C)ObstLibrary.org 
 	
+void Start(){
+	//sets boolean for isdkey enabled and if it is it allows keys to work with Debug.Log
+	bool isDKey = true;
+	bool isbasic3dfpmode = true;
+}
+	
 	void Update () {
-		//Keys_numbers
+		//finish this after doing the mouse class
+		if(isbasic3dfpmode = true){
+			//Basic controls for First Person mode
+		if(Input.GetKeyDown("w"))}{
+			
+		}
+			
+			if(Input.GetKeyDown("a")){
+				
+			}
+			if(Input.GetKeyDown("s")){
+				
+			}
+			
+			if(Input.GetKeyDown("d"){
+				
+			}
+		}
+		
+		if(isDKey = true){
+			//Keys_numbers
 		if(Input.GetKeyDown("1")){
 			Debug.Log("1");
 		}
@@ -117,6 +143,7 @@ public class DebugLogKeys : MonoBehaviour {
 		}
 		if(Input.GetKeyDown("space")){
 			Debug.Log("space");
+		}
 		}
 	}
 }
